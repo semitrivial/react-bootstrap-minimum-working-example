@@ -1,5 +1,3 @@
-var target = document.getElementById("targetDiv");
-
 var errmsg = React.createElement(
   "p",
   null,
