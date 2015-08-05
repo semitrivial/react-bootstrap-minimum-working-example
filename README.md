@@ -18,7 +18,8 @@ Compiling with react-tools:
 Viewing
 --------------
 
-Point your browser at index.html
+1. Compile build/helloworld.js as described above.
+2. Point your browser at index.html
 
 Getting react-tools
 --------------
