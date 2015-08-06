@@ -31,13 +31,13 @@ Once you've installed npm, install react-tools globally:
 
     % npm install -g react-tools
 
-Sorry, no instructions for Windows.
+Sorry, no instructions for Windows (yet).
 
 LICENSE
 --------------
 
 MIT.
 
-Please note that the included react-bootstrap-min.js comes
+The included file react-bootstrap-min.js comes
 from https://github.com/react-bootstrap/react-bootstrap-bower
-(it, too, has an MIT license).
+and also has an MIT license.
